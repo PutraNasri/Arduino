@@ -31,6 +31,7 @@ public class MainActivity extends AppCompatActivity implements ListView.OnItemCl
     private String langkah;
     private String alat;
     private String hasil;
+    private String kosong;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

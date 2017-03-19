@@ -1,0 +1,187 @@
+{
+  "project_info": {
+    "project_number": "309353635654",
+    "firebase_url": "https://testadmob-efbdf.firebaseio.com",
+    "project_id": "testadmob-efbdf",
+    "storage_bucket": "testadmob-efbdf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:309353635654:android:6ab235af66ebe816",
+        "android_client_info": {
+          "package_name": "com.kinket_kuena.byonge.pdamtirtaaneuklaotkotasabang"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "309353635654-4dv8t67frd92r6o1cv4sktqbgafib5c3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kinket_kuena.byonge.pdamtirtaaneuklaotkotasabang",
+            "certificate_hash": "e22165fd2e7190610a9c3c971df9abf053bd7036"
+          }
+        },
+        {
+          "client_id": "309353635654-ejr7eml5ml7jo5u47sh7j2f3oen271tt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kinket_kuena.byonge.pdamtirtaaneuklaotkotasabang",
+            "certificate_hash": "722ebba570ca2a83fdf296253c48eabc41f97159"
+          }
+        },
+        {
+          "client_id": "309353635654-tjhk7p8rjeeuvvths5c1eh5fo1i0mj0s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNdG9VAmYrp88sefReXn5DVxaN5m2qAu4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "309353635654-tjhk7p8rjeeuvvths5c1eh5fo1i0mj0s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:309353635654:android:0807d626be6f110a",
+        "android_client_info": {
+          "package_name": "com.kinket.byonge81"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "309353635654-0vsp8980d8gs8iebec6glfdiu3jiho3o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kinket.byonge81",
+            "certificate_hash": "3f1e3f23372aede256b4e88cf2710724dcdb639a"
+          }
+        },
+        {
+          "client_id": "309353635654-tjhk7p8rjeeuvvths5c1eh5fo1i0mj0s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNdG9VAmYrp88sefReXn5DVxaN5m2qAu4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "309353635654-tjhk7p8rjeeuvvths5c1eh5fo1i0mj0s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:309353635654:android:a4c3721346e249cc",
+        "android_client_info": {
+          "package_name": "com.kuena.kinket.iklan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "309353635654-1eal3m9evhplq1037f47cqlf3fbiu0dr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kuena.kinket.iklan",
+            "certificate_hash": "3f1e3f23372aede256b4e88cf2710724dcdb639a"
+          }
+        },
+        {
+          "client_id": "309353635654-tjhk7p8rjeeuvvths5c1eh5fo1i0mj0s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNdG9VAmYrp88sefReXn5DVxaN5m2qAu4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "309353635654-tjhk7p8rjeeuvvths5c1eh5fo1i0mj0s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:309353635654:android:ae402464889aaea8",
+        "android_client_info": {
+          "package_name": "com.kuena.kinket.arduino"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "309353635654-tjhk7p8rjeeuvvths5c1eh5fo1i0mj0s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNdG9VAmYrp88sefReXn5DVxaN5m2qAu4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "309353635654-tjhk7p8rjeeuvvths5c1eh5fo1i0mj0s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
